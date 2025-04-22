@@ -1,3 +1,3 @@
 # CP2_MarketPlace
 
-Repositório do Checkpoint 2 de Business Systems Planning, Analysis And Design de Market Place
+Repositório de arquivos de Business Systems Planning, Analysis And Design sobre o Market Place Digibuybr
